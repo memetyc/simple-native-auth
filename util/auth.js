@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const API_KEY = "AIzaSyDAkH-CAv1pw39E7pR6EithhLhilcLfCsg";
+const API_KEY = "gizli";
 
 export async function createUser(email, password) {
 
